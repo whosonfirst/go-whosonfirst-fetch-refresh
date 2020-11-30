@@ -1,6 +1,6 @@
 # go-whosonfirst-fetch-refresh
 
-Tools for refreshing an indexing of Who's On First records.
+Tools for refreshing an index of Who's On First records.
 
 ## Tools
 
